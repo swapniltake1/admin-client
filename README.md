@@ -24,6 +24,10 @@ In the corresponding article, we delve into the process of building a simple yet
 
 3. Before step 2nd create your app in a GitHub account for authentication.
 
+## Demo Video 
+
+https://www.youtube.com/watch?v=zUvzYRIDPqY&t=13s
+
 ## Questions and Contributions
 
 If you have questions about the code or concepts discussed in the article, please feel free to open an issue in this repository. We encourage you to contribute to the repository by suggesting improvements, fixes, or additional features through pull requests.
@@ -34,6 +38,3 @@ Join the discussion!
 Connect with us on LinkedIn or other social media platforms to share your thoughts and experiences related to API integration, security, and technology.
 
 
----
-
-Feel free to tailor this README section to your needs, adding or removing details as necessary. Make sure to provide clear instructions for getting started with the code and encourage collaboration through questions, issues, and pull requests.
